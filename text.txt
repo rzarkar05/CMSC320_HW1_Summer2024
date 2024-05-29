@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320?
+
+Because it is a required course and can teach me a lot about data science which is foundational for the machine learning track
